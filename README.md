@@ -3,7 +3,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/cabustillo13/Robot-Scara/blob/main/Recursos/robot.svg" align="center" alt="Robot Scara" />
  <h2 align="center">Robot Scara</h2>
- <p align="center"><b>Control por Human Machine Interface (HMI) de un robot físico y su respectiva simulación.</b></p>
+ <p align="center"><b>Control de robot SCARA mediante HMI (Interfaz Hombre-Máquina) y su respectiva simulación.</b></p>
 
 </p>
   <p align="center">
